@@ -4,7 +4,7 @@
   "description": "Nepathya Student Council Portal",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Pradip Bhattarai",
   "license": "ISC",
